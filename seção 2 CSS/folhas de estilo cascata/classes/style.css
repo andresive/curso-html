@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ccc;
+}
+
+.teste {
+    color: green;
+    font-weight: bold;
+}
+
+.testando {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+.teste_c {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: blue;
+    background-color: wheat;
+}
+
+#qualquer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: crimson;
+    background-color: black;
+}
+

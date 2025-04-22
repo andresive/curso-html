@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: #0e101a;
+    color: rgb(204, 204, 204);
+}
+
+.header, .main {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.main ul {
+    text-decoration: none;
+    list-style-type: none;
+    margin-bottom: 200px;
+}
+
+a {
+    color: rgb(217, 196, 255);
+    border: 5px solid transparent;
+    background-color: #0000ff;
+    border-radius: 10px;
+    transition: 0.6s;
+    min-width: 100%;
+    text-decoration: none;
+}
+
+a:hover {
+    box-shadow: 5px 8px 10px #0000ff;
+    border: 5px solid black;
+}
+
+p {
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
